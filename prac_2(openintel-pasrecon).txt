@@ -1,0 +1,54 @@
+recon-ng
+help
+
+marketplace install all
+
+workspaces help
+workspaces create carlove
+workspaces list
+
+help db
+db schema
+db insert domains
+	tesla.com
+	for learning purpose only
+
+show help
+show domains
+
+modules help
+modules search hack
+modules load recon/domains-hosts/hackertarget
+
+info
+options help
+options set SOURCE tesla.com
+run
+show hosts
+modules search report
+modules load reporting/html
+
+info
+options help
+options set CREATORS AFS Hackers
+options set CUSTOMER Afshan
+
+(in another[new] terminal ig:) touch carinfo.html
+
+(back to the original terminal:)
+options set /home/kali/carinfo.html
+options set FILENAME /home/kali/carinfo.html
+run
+
+(you will find the "carinfo.html" file created at "/home/kali")
+
+
+
+
+
+
+
+
+
+
+
