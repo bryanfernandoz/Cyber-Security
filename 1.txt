@@ -1,0 +1,7 @@
+VMware>Kali Linux>Terminal
+
+$ sudo nmap scanme.org -v -A -O
+
+$ nmap scanme.org -v
+
+$sudo nmap -v -A scanme.org -T4 -O
